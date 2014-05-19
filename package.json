@@ -1,0 +1,11 @@
+{
+  "name": "node-dlog",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "yuichi-tanaka",
+  "license": "MIT"
+}
